@@ -1,0 +1,6 @@
+# Normalise line endings: store LF in the repository, keep LF in the working tree.
+# This stops Git from rewriting every file on Windows checkouts.
+* text=auto eol=lf
+
+# Binary assets are never touched.
+*.svg binary

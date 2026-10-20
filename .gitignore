@@ -1,0 +1,17 @@
+# Operating system metadata
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+.DS_Store
+$RECYCLE.BIN/
+
+# Editor / IDE folders
+.vscode/
+.idea/
+
+# Node / package manager noise (the project has no build step, but keep the repo clean)
+node_modules/
+npm-debug.log*
+yarn-error.log*
